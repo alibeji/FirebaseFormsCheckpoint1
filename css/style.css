@@ -1,0 +1,64 @@
+
+.alert{
+  text-align: center; padding:10px; background:#79c879; 
+  color:#fff; margin-bottom:10px; display:none;
+}
+.ws{padding: 70px}
+
+#main{
+	background-color: #ce2028;
+	border-color: #ce2028;
+	border-style: solid;
+	border-radius: 10px;
+	border-width: 10px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-family: "roboto";
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.7);
+}
+#mainbg{
+	background-image: url("../res/nightsky.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo{
+	background-color: #ffffff;
+	border-radius: 7px;
+}
+
+#form1{
+	}
+
+#submitbutton{
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: 3px;
+	border-color: white;
+	color: white;
+	background-color: #ce2028;
+	font-family: "Roboto Light";
+	font-size: 20px; 
+	transition-duration: 1.5s;
+}
+
+#submitbutton:hover {
+	background-color: white;
+	color: #ce2028;
+
+}
+
+#cta{
+	border-style: solid;
+	border-radius: 5px;
+	border-width: 3px;
+	border-color: white;
+	max-width: 350px;
+}
